@@ -1,2 +1,5 @@
 *.db
 *.log
+*.csv
+db.py
+__pycache__
